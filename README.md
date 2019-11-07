@@ -5,7 +5,7 @@ title: Toms CV
 
 <<<<<<< HEAD
 # Tom Weinberger#
-<img src="D:\Informatik\Semester 3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste\Gin.jpg" alt="Alt-Text" title="Ttitle" />
+![Bildtext](D:\Informatik\Semester 3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste\Gin.jpg "Gin.jpg")
 
 
 # Tom Weinberger #
