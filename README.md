@@ -3,8 +3,9 @@ layout: cv
 title: Toms CV
 ---
 
-# Tom Weinberger #
 
+# Tom Weinberger#
+<D:\Informatik\Semester 3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste="Bild.jpg" alt="Alt-Text" title="" />
 ##Currently##
 
 Beschäftige ich mich mit komischen Modellierungsformen
