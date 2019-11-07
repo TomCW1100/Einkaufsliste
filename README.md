@@ -3,6 +3,11 @@ layout: cv
 title: Toms CV
 ---
 
+<<<<<<< HEAD
+# Tom Weinberger#
+<D:\Informatik\Semester 3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste="Bild.jpg" alt="Alt-Text" title="" />
+
+
 # Tom Weinberger #
 
 ## Currently ##
