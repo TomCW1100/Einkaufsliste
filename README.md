@@ -5,8 +5,7 @@ title: Toms CV
 
 <<<<<<< HEAD
 # Tom Weinberger#
-![Bild 1](D:\Informatik\Semester 3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste\Gin.jpg "waswillichhier")
-![Alt-Text][Bild 1]
+
 
 # Tom Weinberger #
 
