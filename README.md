@@ -5,7 +5,7 @@ title: Toms CV
 
 
 # Tom Weinberger #
-![Bild1](D:\Informatik\Semester 3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste\Gin.jpg)
+![Bild1](D:\Informatik\Semester3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste\Gin.jpg)
 ![Alt-Text][Bild1]
 ## Currently ##
 
