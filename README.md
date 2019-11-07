@@ -3,12 +3,10 @@ layout: cv
 title: Toms CV
 ---
 
-<<<<<<< HEAD
-# Tom Weinberger#
-
 
 # Tom Weinberger #
-
+![Bild1](D:\Informatik\Semester 3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste\Gin.jpg)
+![Alt-Text][Bild1]
 ## Currently ##
 
 Beschäftige ich mich mit **komischen** Modellierungsformen
