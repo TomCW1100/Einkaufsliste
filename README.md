@@ -5,7 +5,7 @@ title: Toms CV
 
 
 # Tom Weinberger #
-![Bild1](D:\Informatik\Semester3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste\Gin.jpg)
+![Bild1](https://menschprima-physiognomik.de/wp-content/uploads/2018/11/Bild-Gesicht-website-2018.jpg)
 
 ## Currently ##
 
