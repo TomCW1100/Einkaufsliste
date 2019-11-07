@@ -5,7 +5,7 @@ title: Toms CV
 
 <<<<<<< HEAD
 # Tom Weinberger#
-(https://menschprima-physiognomik.de/wp-content/uploads/2018/11/Bild-Gesicht-website-2018.jpg)
+<img src="D:\Informatik\Semester 3\OSSE\Aufgabe4\GitKlonRepo\Einkaufsliste\Gin.jpg" alt="Alt-Text" title="Ttitle" />
 
 
 # Tom Weinberger #
